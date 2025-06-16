@@ -1,2 +1,4 @@
 name=Reswin
-age=16
+age=17
+print(name)
+print(age)
