@@ -1,4 +1,4 @@
-name=Reswin
+name=Reswinjone
 age=17
 print(name)
 print(age)
