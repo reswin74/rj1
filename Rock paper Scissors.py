@@ -30,3 +30,4 @@ def game(h,c):
             print("Machine Won the Tournament")
     else:
         game(h,c)
+game(0,0)
